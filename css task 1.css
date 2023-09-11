@@ -1,0 +1,76 @@
+.div1{
+    margin-top: 2rem;
+    border: 2px solid green;
+    height: 6rem;
+    width: 6rem;
+}
+.div2{
+    margin-top: 1rem;
+    border: 2px solid green;
+    height: 6rem;
+    width: 6rem;
+    border-radius: 0.5rem;
+}
+.div3{
+    margin-top: 1rem;
+    border: 2px solid green;
+    height: 6rem;
+    width: 6rem;
+    border-radius: 50rem;
+}
+
+
+.div4{
+    margin-top: -20.7rem;
+    margin-left: 8rem;
+    border: 2px solid green;
+    height: 6rem;
+    width: 6rem;
+    border-radius: 0.25rem;
+}
+.div5{
+    margin-top: 1rem;
+    margin-left: 8rem;
+    border: 2px solid green;
+    height: 6rem;
+    width: 6rem;
+
+}
+.div6{
+    margin-top: 1rem;
+    margin-left: 8rem;
+    border: 2px solid green;
+    height: 6rem;
+    width: 6rem;
+    border-radius: 0.75rem;
+}
+
+
+.div7{
+    margin-top: -20.7rem;
+    margin-left: 16rem;
+    border: 2px solid green;
+    height: 6rem;
+    width: 6rem;
+    border-radius: 1.25rem;
+}
+
+.div8{
+    margin-top: 1rem;
+    margin-left: 16rem;
+    border: 2px solid green;
+    height: 6rem;
+    width: 6rem;
+    border-radius: 1.75rem;
+}
+
+.div9{
+    margin-top: 1rem;
+    margin-left: 16rem;
+    border: 2px solid green;
+    height: 6rem;
+    width: 6rem;
+    /* border-radius: 1.75rem; */
+    border-top-right-radius: 2.5rem;
+    border-bottom-left-radius: 2.5rem;
+}
